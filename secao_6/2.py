@@ -9,5 +9,3 @@ while 0 < num < 100:
 
 lista = list(range(100))
 print(lista)
-
-

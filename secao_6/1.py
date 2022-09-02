@@ -6,3 +6,4 @@ print("Os cinco primeiros múltiplos de 3 são")
 while 0 < num < 6:
     print(num * valor)
     num = num + 1
+

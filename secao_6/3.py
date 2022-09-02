@@ -5,4 +5,3 @@ while -1 < num < 11:
     num = num - 1
 
 print("fim")
-

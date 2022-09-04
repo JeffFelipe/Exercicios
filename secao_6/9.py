@@ -16,6 +16,8 @@ else:
 print(f"Os próximos 10 números naturais ímpares são:\n{ni}")
 
 """
+CÓDIGO COMENTADO
+
 print("Digite um número inteiro qualquer.\n")
 
 ni = []  # criei uma lista sem nenhum valor

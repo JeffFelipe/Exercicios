@@ -9,4 +9,4 @@ if n > -1:
     else:
         print("Número ímpar: fora dos parâmetros")
 else:
-    print("número negatico: fora dos parâmetros")
+    print("número negativo: fora dos parâmetros")

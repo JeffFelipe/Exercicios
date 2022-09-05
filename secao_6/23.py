@@ -9,7 +9,7 @@ divisores = []
 if num < 0:
     num = int(input('Digite um número positivo: '))
 
-for i in range(i, num+1):
+for i in range(i, num + 1):
     if num % i == 0:
         divisores.append(i)
 

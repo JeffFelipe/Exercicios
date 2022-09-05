@@ -1,6 +1,7 @@
 print("Digite um número inteiro positivo par.\n")
 
 n = int(input())
+
 if n > -1:
     if n % 2 == 0:
         lista = list(range(0, (n + 1), 2))

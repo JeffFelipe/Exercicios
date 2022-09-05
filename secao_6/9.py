@@ -27,7 +27,7 @@ adiciona = int(input())  # campo para usuário inserir o número
 if adiciona % 2 != 0:  # Se a variável adiciona dividida por 2 e tiver como resto diferente de 0
     while len(ni) < 10:  # Enquanto o len da lista ni for menor que 10 índice
         ni.append(adiciona + 2)  # irá inserir na lista ni o valor inicial de adiciona + 2
-        adiciona = adiciona + 2  # modifica o valor de adiciona, crianod o looping
+        adiciona = adiciona + 2  # modifica o valor de adiciona, criando o looping
 else:  # Se não
     while len(ni) < 10:
         ni.append(adiciona + 1)

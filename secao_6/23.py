@@ -13,4 +13,4 @@ for i in range(i, num+1):
     if num % i == 0:
         divisores.append(i)
 
-print(f"Os divisores de {num} são {divisores[::-1]}")
+print(f"Os divisores de {num} são {divisores}")
